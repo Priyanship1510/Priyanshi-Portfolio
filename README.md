@@ -1,2 +1,2 @@
 # Priyanshi-Portfolio
- my work
+ My Portfolio
