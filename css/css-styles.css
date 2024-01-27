@@ -533,24 +533,24 @@ img {
     width: 70%;
 }
 
-.skills__firebase {
-    width: 90%;
+.skills__django {
+    width: 70%;
 }
 
-.skills__python {
+.skills__flask {
     width: 55px;
 }
 
-.skills__figma {
+.skills__python {
     width: 90%;
 }
 
-.skills__sketch {
-    width: 85%;
+.skills__c {
+    width: 80%;
 }
 
-.skills__photoshop {
-    width: 85%;
+.skills__java {
+    width: 70%;
 }
 
 .skills__close .skills__list {
